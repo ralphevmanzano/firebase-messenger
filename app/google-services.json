@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "985043224967",
+    "firebase_url": "https://kotlin-messenger-a384c.firebaseio.com",
+    "project_id": "kotlin-messenger-a384c",
+    "storage_bucket": "kotlin-messenger-a384c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985043224967:android:672eb22a3fa1f51f",
+        "android_client_info": {
+          "package_name": "com.example.ralphmanzano.firebasmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985043224967-uaeuaq73oloohbvpmif9ne28md6l9agg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ralphmanzano.firebasmessenger",
+            "certificate_hash": "80e35bc67e7b7b03cbd170ee1db96e6f93c2920e"
+          }
+        },
+        {
+          "client_id": "985043224967-1tv1c3ju4u7ksrofl9jabr8l5fidjhmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgsfRSH-iKH5UP2B9HkJBscZGRlCQ8sMw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985043224967-1tv1c3ju4u7ksrofl9jabr8l5fidjhmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985043224967:android:9231ec8fc283a3d5",
+        "android_client_info": {
+          "package_name": "com.ralphevmanzano.kotlinmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985043224967-1tv1c3ju4u7ksrofl9jabr8l5fidjhmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgsfRSH-iKH5UP2B9HkJBscZGRlCQ8sMw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

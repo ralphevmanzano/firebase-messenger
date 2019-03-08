@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Firebase Messenger</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="register">Register</string>
+    <string name="back_to_registration">Back to Registration</string>
+    <string name="login">Login</string>
+    <string name="select_photo">Select\nPhoto</string>
+</resources>
